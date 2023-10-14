@@ -1,2 +1,2 @@
 Hi
-This is the Algoritmi Academy Website.
+This is the Algoritmi Academy website.
