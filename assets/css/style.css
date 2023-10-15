@@ -1015,7 +1015,9 @@ section {
 --------------------------------------------------------------*/
 .contact .info {
   width: 100%;
+  padding-top: 50px;
   background: #fff;
+  padding-left: 100px;
 }
 
 .contact .info i {
